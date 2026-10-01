@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+fastembed
+chromadb
+groq
+streamlit
